@@ -1,2 +1,5 @@
 # Java compiled source
 *.class
+
+# Windows executable
+*.exe
